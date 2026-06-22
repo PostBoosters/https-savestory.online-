@@ -1,4 +1,4 @@
-# https-savestory.onlie
+# savestory.onlie
 Browser-based downloader for public Instagram stories, reels, videos, photos, and highlights.
 # Story Saver
 
